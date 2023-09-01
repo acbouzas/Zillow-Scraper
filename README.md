@@ -3,7 +3,7 @@ Scrape US Real State Data with this Scraper
 
 ## Overview
 
-This Python script scrapes real estate data from Zillow using the Zillow API. It extracts property details such as price, location, and more.
+This Python script scrapes data from Zillow.com using the Zillow API. It extracts property details such as price, location, and more.
 
 ![script_example](https://github.com/acbouzas/Zillow-Scraper/blob/main/images/zillowscreenshot.png)
 ![data_example](https://github.com/acbouzas/Zillow-Scraper/blob/main/images/Screenshot%20from%202023-09-01%2014-23-32.png)
