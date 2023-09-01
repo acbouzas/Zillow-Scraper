@@ -12,7 +12,7 @@ This Python script scrapes data from Zillow.com using the Zillow API. It extract
 
 1. Clone the repository to your local machine
 2. Navigate to the project directory
-3. Open the script file `zillow_scraper.py` in a text editor.
+3. Open the script file `zillowscraper.py` in a text editor.
 4. Customize the script:
 
    - You may want to modify the search parameters in the `get_zillow_data` function to specify your desired location and search criteria.
